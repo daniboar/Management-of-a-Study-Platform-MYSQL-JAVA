@@ -1,4 +1,1 @@
-I developed an application for managing a study platform with a partener as part of my Databases class.
-In this project we implemented a database with the following users: students, teachers, admins and super-admins.
-Each user has its own features such as viewing personal data, joining/exiting courses, creating/entering groups, adding/viewing grades, creating activities, etc.
-This project was implemented using MySql and Java.
+I developed an application designed to streamline the management of a study platform. This project involved the creation of a database that accommodated various user roles, including students, teachers, admins, and super-admins. Each category of users was endowed with specific functionalities tailored to their needs, such as the ability to view personal data, enroll in or withdraw from courses, form or join groups, manage and access grades, and create activities. The implementation of this project was achieved through the use of MySQL for database management and Java, specifically utilizing Java Swing for the graphical user interface.
